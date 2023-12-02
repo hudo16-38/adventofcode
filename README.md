@@ -1,3 +1,3 @@
 # adventofcode
 
-Solutions to [Advent of Code](adventofcode.com)
+Solutions to [Advent of Code](https://adventofcode.com)
