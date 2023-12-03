@@ -59,7 +59,7 @@ def get_adjacent_numbers(numbers: list[Number], symbols: list[Symbol]) -> list[i
             res.append(number.number)
     return res
 
-def get_gears(numbers: list[Number], symbols: Symbol) -> list[Symbol]:
+def get_gears(numbers: list[Number], symbols: list[Symbol]) -> list[Symbol]:
     res = []
     for symbol in symbols:
         if symbol.symbol != "*":
